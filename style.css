@@ -63,9 +63,9 @@ ul a:focus {
     top: 15px;
     border-radius: 50px;
     width: 35em;
+    border: 1px solid #dfe1e5;
 }
 
 .search-box:hover {
-    box-shadow:  1px 1px 1px 1px grey;
-    box-shadow: -1px -1px 1px 1px grey;
+    box-shadow:  1px 1px 8px 1px #dfe1e51f;
 }
