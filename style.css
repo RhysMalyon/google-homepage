@@ -1,0 +1,19 @@
+* {
+    margin: none;
+    padding: none;
+}
+
+.nav-bar {
+    display: flex;
+}
+
+.logo, .search-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto 50%;
+}
+
+.search-box {
+    border-radius: 25%;
+}
