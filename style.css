@@ -38,9 +38,22 @@ ul a:focus {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: auto 50%;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
 }
 
-.search-box {
-    border-radius: 25%;
+.logo-search {
+    position: relative;
+    top: 25vh;
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    max-height: 100%;
+    width: 272px;
+    height: 102px;
 }
