@@ -3,8 +3,35 @@
     padding: none;
 }
 
-.nav-bar {
+ul {
     display: flex;
+    text-decoration: none;
+    list-style-type: none;
+    justify-content: flex-end;
+}
+
+ul a {
+    color: black;
+}
+
+ul a:hover {
+    text-decoration: underline;
+    color: black;
+}
+
+ul a:focus {
+    text-decoration: none;
+    color: black;
+}
+
+.nav-item {
+    margin: 5px;
+}
+
+.box-grid {
+    padding: 5px;
+    display: flex;
+    
 }
 
 .logo, .search-box {
