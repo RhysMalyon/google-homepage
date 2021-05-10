@@ -50,6 +50,8 @@ ul a:focus {
 .avatar {
     border: 1px solid transparent;
     border-radius: 50%;
+    width: 32px;
+    height: 32px;
 }
 
 .footer {
@@ -90,7 +92,7 @@ ul a:focus {
     height: 5vh;
     align-items: center;
     flex-grow: 1;
-    justify-content: right;
+    justify-content: flex-end;
 }
 
 .footer .footer-left {
