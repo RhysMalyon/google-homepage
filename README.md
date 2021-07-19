@@ -9,3 +9,5 @@
 * Hands-on experience with positioning
 * Extensive use of the flexbox approach
 * Debugging using browser developer tools
+
+## [Live Preview](https://rhysmalyon.github.io/google-homepage/)
